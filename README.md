@@ -1,5 +1,7 @@
 ## Hi there I'm Antonio Jiménez👋
 ## I am a passionate web developer and enjoy creating functional and attractive websites and applications.
+
+## 🎓 I study web development
 <!--
 **Ficha06/Ficha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
